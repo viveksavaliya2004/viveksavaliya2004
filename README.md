@@ -19,30 +19,35 @@
 
 ## 🧑‍💻 About Me
 
-\`\`\`yaml
+```yaml
 name: Vivek Savaliya
 location: Gandhinagar, Gujarat, India
 education: DAIICT (DAU)
 focus: [Web Development, IoT & Embedded Systems]
 currently_learning: "Whatever the next cool project needs"
 fun_fact: "I ship prototypes fast and refine later"
-\`\`\`
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,c,arduino" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode,c,arduino" />
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
@@ -74,14 +79,14 @@ fun_fact: "I ship prototypes fast and refine later"
 
 ### 📚 [Studynotion](https://github.com/viveksavaliya2004/Studynotion)
 Ed-tech / learning platform built for students to access and manage courses.
-<br>\`JavaScript\`
+<br>`JavaScript`
 
 </td>
 <td width="50%">
 
 ### 🖐️ [HandCrafted-Heaven](https://github.com/viveksavaliya2004/HandCrafted-Heaven)
 A themed web storefront for handcrafted goods.
-<br>\`HTML\`
+<br>`HTML`
 
 </td>
 </tr>
@@ -90,14 +95,14 @@ A themed web storefront for handcrafted goods.
 
 ### 🔐 [IOT-Face-Recognition-Door-Lock](https://github.com/viveksavaliya2004/IOT-Face-Recognition-Door-Lock)
 Touchless smart door lock using **ESP32-CAM** + facial recognition for secure home automation.
-<br>\`IoT\` \`Embedded Systems\`
+<br>`IoT` `Embedded Systems`
 
 </td>
 <td width="50%">
 
 ### 🏦 [Bank-Management-System](https://github.com/viveksavaliya2004/bank-management-system)
 A system for managing core banking operations.
-<br>\`CSS\`
+<br>`CSS`
 
 </td>
 </tr>
